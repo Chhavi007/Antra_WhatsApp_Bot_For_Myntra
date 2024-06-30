@@ -5,7 +5,7 @@
 ### Account Requirements
 - [Ngrok Account](https://ngrok.com/) : To generate public url 
 - [Twilio Acocunt](https://www.twilio.com/en-us) : To integrate WhatsApp Messaging
-- [GoogelAI for Developers Account](https://ai.google.dev/) : To use integrate generative AI
+- [GoogelAI for Developers Account](https://ai.google.dev/) : To integrate generative AI
 - [eBay Developers Program Account](https://developer.ebay.com/develop/apis) : To use products and their details
 ### Coding Platform
 - VS Code
