@@ -1,6 +1,6 @@
 # Myntra's Antra : A 24/7 Fashion Guide🤖
 <a><img src="https://github.com/Chhavi007/Antra_WhatsApp_Bot_For_Myntra/blob/main/prototype.gif" alt="Antra" width="260px" height="500px" border="20" /></a>
-<img src="https://github.com/Chhavi007/Antra_WhatsApp_Bot_For_Myntra/blob/main/Antra.jpg" alt="ANTRA" width="260px" height="500px" border="20" />
+<img src="https://github.com/Chhavi007/Antra_WhatsApp_Bot_For_Myntra/blob/main/Antra.png" alt="ANTRA" width="260px" height="500px" border="20" />
 ## Complete Set Up Procedure
 ### Account Requirements
 - [Ngrok Account](https://ngrok.com/) : To generate public url 
