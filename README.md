@@ -1,5 +1,5 @@
 # Myntra's Antra : A 24/7 Fashion Guide🤖
-<img src="https://github.com/Chhavi007/Antra_WhatsApp_Bot_For_Myntra/blob/main/prototype.gif" alt="SocialFast" width="400px" height="800px" border="20" />
+<img src="https://github.com/Chhavi007/Antra_WhatsApp_Bot_For_Myntra/blob/main/prototype.gif" alt="SocialFast" width="260px" height="500px" border="20" />
 
 ## Complete Set Up Procedure
 ### Account Requirements
